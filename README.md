@@ -5,7 +5,7 @@ The project generates visualizations depicting the global spread of COVID-19 and
 
 ARIMA model visualization in predicting the covid-19 cases for next 30 days:
 
-<img src="https://github.com/bhemeshwaryeturi30/HR-Analytics-Power-BI-Project/blob/main/Dashboard.png" width="100%" height="100%">
+<img src="https://github.com/bhemeshwaryeturi30/Covid-19-Cases-prediction-for-next-30-days/blob/main/Visualization-4.png" width="70%" height="70%">
 
 
 
